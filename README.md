@@ -5,7 +5,7 @@
 
 
 ## Description
-This dorkshop is an introduction to 
+This dorkshop is an introduction to the openFrameworks C++ toolkit! It is in many ways a helping hand for your CC Lab unit on openFrameworks. It will also give you more freedom to experiement with creative coding in your first few weeks of Marjor Studio I. 
 
 ## Dorkshop Outline
 
