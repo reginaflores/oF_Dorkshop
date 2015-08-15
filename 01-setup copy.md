@@ -33,8 +33,8 @@ Go to your openFrameworks root directory:
 	
 And clone this directory
 
-	git clone http://github.com/patriciogonzalezvivo/sims2014.git
-
+	git clone https://github.com/reginaflores/oF_Dorkshop.git
+	
 You will see that the folder is together with the ```apps/```, ```libs/``` and ```addons/``` folders
 
 * ```addons/```
@@ -42,9 +42,9 @@ You will see that the folder is together with the ```apps/```, ```libs/``` and `
 * ```libs/```
 * ```examples/```
 * ```scripts/```
-* ```sims2014/```
+* ```oF_Dorkshop/```
 
-These will preserve the examples on 3 levels over the root directory (if you don't understand what I mean, read [Chapter 03](https://github.com/openframeworks/ofBook/blob/master/03_setup_and_project_structure/chapter.md)! seriously! READ IT! ).
+These will preserve the examples on 3 levels over the root directory (if you don't understand what I mean, read [Chapter 03](https://github.com/openframeworks/ofBook/blob/master/03_setup_and_project_structure/chapter.md)! seriously! READ IT! But we will also talk about it in the class. ).
 
 ## 4. Make a GitHub Account and a repository for your Work
 
@@ -60,8 +60,7 @@ Create a github account if you don't have one already and create a repo for the 
 				
 		libs/
 		examples/
-		sims2014/
-		sims2014_students/
+		oF_Dorkshop/
  ```
 
 * Remember to add a [```.gitignore```](https://gist.github.com/ofZach/3707086). This will tells git to avoid certain files, such as compiled object code, .app / .exes, etc. It keeps your repos slim and lightweight and helps you avoid committing unnecessary things. (Beside [Zach’s gitignore](https://gist.github.com/ofZach/3707086 you can make your using [this site](http://www.gitignore.io/) ). Also you can use the one from the sims repo. For example, inside your private homework folder do:
