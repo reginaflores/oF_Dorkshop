@@ -1,31 +1,21 @@
  
-	**Creative Coding** - 7040 - PGTE 5566 - B
+	**Creative Coding** - OpenFrameworks Dorkshop - Bootcamp 2015
 	
-	Wednesdays between 7:00 pm - 9:40 pm	 at 66 5th Ave 716	 
+	Sunday, August 16 from 4pm - 7pm 	 
 
-Welcome to **Simulation Studio FALL 2014**, [here](https://github.com/patriciogonzalezvivo/sims2014) you will find the class material.
 
-## Course Description
-This studio course will focus on computer simulation algorithms. Students will practice different techniques to improve their ability to observe and think algorithmically. 
-
-Think of this course as a regular drawing studio course. You will exercise and train your abilities by observing and sketching over and over. Different computational techniques and mathematical principles will be presented and it's up to you to gradually incorporate them into your sketches. This course will require you to practice at home. Expect to do a LOT of homework from week to week.
-
-We will start by reviewing the basics of Object Oriented Programming. This will be the foundation of the computer paradigm we will use to code our simulations. We will also cover trigonometric principles to understand the foundations of physics simulations.
-
-Then we will move towards more complex simulations using multiple forces (attraction, repulsion, bouncing, springs, field forces, noise, etc). We will see how collective patterns can emerge from individual behavior.
-
-Several case studies inspired by nature (Flocking Systems, L-Systems, Gray Scott's Reaction-Diffusion, etc.) will be presented together with their computational implementation.
-
-Students will complete field trips and collect observations of natural patterns and phenomena. They will present a midterm and final project, applying learned concepts to create computer programs. Both projects will include students' meticulous research on their natural references. 
+## Description
+This dorkshop is an introduction to 
 
 ## Dorkshop Outline
 
-| TIME         | TOPIC                                     |
-|:------------:|:------------------------------------------|
-| 4PM - 4:30PM | OF intro, Community, Add-ons                          |
-| 4:30PM - 5PM | Downloading X-CODE, Installing OF, Folder Structure, Project Generator, Basic Built In Examples     |
-| 5:15PM - 6PM | Make a Particle Class            |         
-| 6PM - 7PM    | Downloading Add-Ons, [OFPlugin](https://github.com/openframeworks/OFXcodeMenu)           |
+| TIME           | TOPIC                                     |
+|:--------------:|:------------------------------------------|
+| 4pm - 4:30pm | OF intro, Community, Add-ons                          |
+| 4:30pm - 5pm | Downloading X-CODE, Installing OF, Folder Structure, Project Generator, Basic Built In Examples     |
+| 5:00pm - 5:15pm | Break | 
+| 5:15pm - 5:30pm |Downloading Add-Ons, [OFPlugin](https://github.com/openframeworks/OFXcodeMenu)            |         
+| 5:30pm - 7pm    | Make a simple Particle Class and then apply Flocking          |
 
 
 
